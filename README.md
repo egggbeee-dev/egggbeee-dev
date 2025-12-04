@@ -1,8 +1,10 @@
 ## Hi there 👋
 
+<!-- Contact Title -->
+<h3 align="center">📫 <b>Contact</b></h3>
 
-
-<p align="left">
+<!-- Contact Buttons -->
+<p align="center">
 
   <!-- Gmail -->
   <a href="mailto:egggbeee@gmail.com">
@@ -15,6 +17,7 @@
   </a>
 
 </p>
+
 
 
 
