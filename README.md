@@ -1,18 +1,15 @@
-<h1 align="center">Hanbi Choi</h1>
-<p align="center">
-AI Researcher | Multimodal AI | VLM/VLA | Human-Robot Interaction
-</p>
+## Hi there 👋
 
 <h3 align="center">📫 Contact</h3>
 
 <div align="center">
-  <a href="mailto:egggbeee@gmail.com">
+  <a href="mailto:egggbeee@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/egggbeee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mydailyrecordof.tistory.com/">
+  <a href="https://mydailyrecordof.tistory.com/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Tistory Blog-000000?style=flat-square&logo=tistory&logoColor=white" />
   </a>
-  <a href="https://instagram.com/egggbeee">
+  <a href="https://instagram.com/egggbeee" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/@egggbeee-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </div>
