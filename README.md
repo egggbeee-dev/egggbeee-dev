@@ -3,16 +3,18 @@
 <h3 align="center">📫 Contact</h3>
 
 <div align="center">
-  <a href="mailto:egggbeee@gmail.com" style="text-decoration:none;">
-    <img style="display:block" src="https://img.shields.io/badge/egggbeee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:egggbeee@gmail.com">
+    <img src="https://img.shields.io/badge/egggbeee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mydailyrecordof.tistory.com/" style="text-decoration:none;">
-    <img style="display:block" src="https://img.shields.io/badge/Tistory%20Blog-000000?style=flat-square&logo=tistory&logoColor=white" />
+
+  <span>&nbsp;·&nbsp;</span>
+
+  <a href="https://mydailyrecordof.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory%20Blog-000000?style=flat-square&logo=tistory&logoColor=white" />
   </a>
-  <a href="https://instagram.com/egggbeee" style="text-decoration:none;">
-    <img style="display:block" src="https://img.shields.io/badge/@egggbeee-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</div>>
+</div>
+
+
 
 ### 🛠 Tech Stack
 
