@@ -1,9 +1,11 @@
-## Hanbi Choi  
+<h1 align="center">Hanbi Choi</h1>
+<p align="center">
 AI Researcher | Multimodal AI | VLM/VLA | Human-Robot Interaction
+</p>
 
 <h3 align="center">📫 Contact</h3>
 
-<p align="center">
+<div align="center">
   <a href="mailto:egggbeee@gmail.com">
     <img src="https://img.shields.io/badge/egggbeee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -13,8 +15,7 @@ AI Researcher | Multimodal AI | VLM/VLA | Human-Robot Interaction
   <a href="https://instagram.com/egggbeee">
     <img src="https://img.shields.io/badge/@egggbeee-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-</p>
-
+</div>
 
 ### 🛠 Tech Stack
 
@@ -44,7 +45,7 @@ AI Researcher | Multimodal AI | VLM/VLA | Human-Robot Interaction
 
 ### 📑 Research Experience
 
-- Contributor to a KCC conference paper and co-author of an MDPI journal manuscript on Generative AI and Multimodal Learning (submitted)
+- Contributor to a KCC conference paper and co-author of an MDPI journal manuscript on Generative AI and Multimodal AI (submitted)
 - Research participant in ETRI Vision-Language Model (VLM) & Vision-Language-Action (VLA) project  
 - Conducted research and literature reviews in AI, Computer Vision, and Robotics 
 
