@@ -4,15 +4,15 @@
 
 <div align="center">
   <a href="mailto:egggbeee@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/egggbeee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img style="display:block" src="https://img.shields.io/badge/egggbeee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://mydailyrecordof.tistory.com/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Tistory Blog-000000?style=flat-square&logo=tistory&logoColor=white" />
+    <img style="display:block" src="https://img.shields.io/badge/Tistory%20Blog-000000?style=flat-square&logo=tistory&logoColor=white" />
   </a>
   <a href="https://instagram.com/egggbeee" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/@egggbeee-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img style="display:block" src="https://img.shields.io/badge/@egggbeee-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-</div>
+</div>>
 
 ### 🛠 Tech Stack
 
