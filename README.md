@@ -7,8 +7,6 @@
     <img src="https://img.shields.io/badge/egggbeee@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
-  <span>&nbsp;·&nbsp;</span>
-
   <a href="https://mydailyrecordof.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory%20Blog-000000?style=flat-square&logo=tistory&logoColor=white" />
   </a>
