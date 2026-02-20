@@ -33,7 +33,34 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 </p>
 
+---
 
+### 🔬 Research Interests
+
+- Vision-Language Models (VLM)
+- Vision-Language-Action (VLA)
+- Multimodal Generative AI
+- Human-Robot Interaction (HRI)
+- Uncertainty & Ambiguity Modeling
+
+---
+
+### 📑 Research Experience
+
+- KCC Conference Paper Contributor (Generative AI & Multimodal Learning)
+- MDPI Journal Manuscript Co-Author (Under Review)
+- Patent Filing in Generative AI Applications
+- Research Participant in ETRI Vision-Language Model (VLM) & Vision-Language-Action (VLA) Project
+- Multimodal AI System Design and Evaluation
+
+---
+
+### 🏆 Honors & Scholarships
+
+- 🥇 1st Place, Codeit Boost Kaggle Competition  
+- 🎓 UROP Research Scholarship  
+- 🎖 Undergraduate Research Scholarship  
+- 🏅 IT Competition Award (Capstone Design)
 
 
 <!--
