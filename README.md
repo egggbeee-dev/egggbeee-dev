@@ -40,10 +40,9 @@
 ### 🏆 Honors & Scholarships
 - 🏆 KCC 2026 Best Paper Award
 - 🥇 1st Place, Codeit Boost Kaggle Data Competition
-- 🏅 Excellence Award, IT Competition (Capstone Application Development)
-- 🎓 Undergraduate Research Scholarship
-- 🎓 UROP Research Scholarship
+- 🎓 Research Scholarships
 
+  
 <!--
 **egggbeee-dev/egggbeee-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
