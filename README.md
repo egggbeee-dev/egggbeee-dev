@@ -23,25 +23,31 @@
 </p>
 
 
-### 🔬 Research Interests
+## 🔬 Research Interests
 
-- Vision-Language Models (VLM) & Vision-Language-Action (VLA)
+- Vision-Language Models (VLMs)
+- Embodied AI
+- Smart Home Intelligence
 - Human-Robot Interaction (HRI)
-- Multimodal Generative AI
 
-### 📑 Research Experience
+## 📑 Publications & Research
 
-- Contributor to a KCC conference paper and co-author of an MDPI journal manuscript on Generative AI and Multimodal AI (submitted)
-- Research participant in ETRI Vision-Language Model (VLM) & Vision-Language-Action (VLA) project  
-- Conducted research and literature reviews in AI, Computer Vision, and Robotics 
+- **First Author | KCC 2026 (Best Paper Award)**
+  - *A Peer-to-Peer Collaboration-Based Embodied Multi-Agent Planning Framework for Spatially Separated Environments*
 
+- **First Author | Electronics (MDPI)**
+  - *MELT: A Style-Adaptive Multimodal Folktale Generation Framework for Underrepresented Cultures*
 
-### 🏆 Honors & Scholarships
+- **Research Participant | ETRI**
+  - Vision-Language Model (VLM) & Vision-Language-Action (VLA) Research Project
 
-- 🥇 1st Place, Codeit Boost Kaggle Data Competition  
-- 🏅 Excellence Award, IT Competition (Capstone Application Development)  
-- 🎓 Undergraduate Research Scholarship  
-- 🎓 UROP Research Scholarship  
+## 🏆 Honors & Scholarships
+
+- 🏆 KCC 2026 Best Paper Award
+- 🥇 1st Place, Codeit Boost Kaggle Data Competition
+- 🏅 Excellence Award, IT Competition (Capstone Application Development)
+- 🎓 Undergraduate Research Scholarship
+- 🎓 UROP Research Scholarship
 
 <!--
 **egggbeee-dev/egggbeee-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
