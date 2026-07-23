@@ -24,25 +24,20 @@
 
 
 ## 🔬 Research Interests
-
 - Vision-Language Models (VLMs)
 - Embodied AI
 - Smart Home Intelligence
 - Human-Robot Interaction (HRI)
 
 ## 📑 Publications & Research
-
 - **First Author | KCC 2026 (Best Paper Award)**
   - *A Peer-to-Peer Collaboration-Based Embodied Multi-Agent Planning Framework for Spatially Separated Environments*
-
 - **First Author | Electronics (MDPI)**
   - *MELT: A Style-Adaptive Multimodal Folktale Generation Framework for Underrepresented Cultures*
-
 - **Research Participant | ETRI**
   - Vision-Language Model (VLM) & Vision-Language-Action (VLA) Research Project
 
 ## 🏆 Honors & Scholarships
-
 - 🏆 KCC 2026 Best Paper Award
 - 🥇 1st Place, Codeit Boost Kaggle Data Competition
 - 🏅 Excellence Award, IT Competition (Capstone Application Development)
